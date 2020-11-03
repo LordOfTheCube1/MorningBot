@@ -1,3 +1,8 @@
+/* 
+ COPYRIGHT (C) 2020 LordOfTheCube and Komali
+ Licensed under GNU General Public License v3.0 (more details in "LICENSE" file)
+*/
+
 exports.run = async (client, msg, args) => {
   if(!msg.member.hasPermission("MANAGE_MESSAGES")) {
     const permMsg = await msg.channel.send(`<@${msg.author.id}>, You do not have permission to do that!!1!1!!`);

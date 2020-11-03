@@ -1,3 +1,8 @@
+/* 
+ COPYRIGHT (C) 2020 LordOfTheCube and Komali
+ Licensed under GNU General Public License v3.0 (more details in "LICENSE" file)
+*/
+
 const { MessageEmbed } = require("discord.js");
 const uniqid = require("uniqid");
 exports.run = async (client, msg, args) => {

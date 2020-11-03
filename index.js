@@ -1,3 +1,9 @@
+/* 
+ COPYRIGHT (C) 2020 LordOfTheCube and Komali
+ Licensed under GNU General Public License v3.0 (more details in "LICENSE" file)
+*/
+
+
 const {Client, MessageEmbed, Collection} = require('discord.js');
 const client = new Client();
 const express = require('express');

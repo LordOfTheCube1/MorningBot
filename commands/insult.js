@@ -1,3 +1,8 @@
+/* 
+ COPYRIGHT (C) 2020 LordOfTheCube and Komali
+ Licensed under GNU General Public License v3.0 (more details in "LICENSE" file)
+*/
+
 const fs = require("fs");
 const { MessageEmbed } = require('discord.js');
 //const embed = require('./commands/embedfunction.js')
