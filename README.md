@@ -3,7 +3,7 @@ Custom Bot for [MorningMax's](https://twitch.tv/morningmax27) [discord server](h
 
 Written by Komali#1647 and LordOfTheCube#0419
 
-Hosted on [ReplIt](https://repl.it) cos we're poor
+Hosted on [Repl.it](https://repl.it) cos we're poor :)
 
 If you copy anything from here give credit pls (and give credit to the original author where applicable)
 
