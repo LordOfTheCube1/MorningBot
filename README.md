@@ -1,11 +1,13 @@
-# MorningBot
-Custom Bot for [MorningMax's](https://twitch.tv/morningmax27) [discord server](https://discord.gg/5qTGguZ) 
+# CinnaBot
+Custom Bot for [cinnamon's](https://twitch.tv/cinnnamon_) [discord server](https://discord.gg/5qTGguZ) 
 
 Written by Komali#1647 and LordOfTheCube#0419
 
 Hosted on [Repl.it](https://repl.it) cos we're poor :)
 
 If you copy anything from here give credit pls (and give credit to the original author where applicable)
+
+Note: this is an old version, we've changed quite a lot since this was published
 
 ### Credits
 
